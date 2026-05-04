@@ -1,6 +1,6 @@
 # Hi, I'm Todor 👋
 
-🎯 3D Artist & UE5 Developer → Data Analyst
+🎯 B.Sc. Media Informatics | 3D Artist & UE5 Developer → Data Analyst
 
 ---
 
@@ -14,11 +14,21 @@
 
 ## 🛠 Skills
 
+**Data & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**3D & Game Development**
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Blueprints](https://img.shields.io/badge/UE5%20Blueprints-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![MaxScript](https://img.shields.io/badge/MaxScript-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+
+**Web**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
