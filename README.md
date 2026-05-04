@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Todor 👋
 
-<!--
-**tvankov/tvankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 3D Artist & UE5 Developer → Data Analyst
 
-Here are some ideas to get you started:
+## 🏅 Certifications
+[![EXIN DAF](https://img.shields.io/badge/EXIN-Data%20Analytics%20Foundation-0a5c9e?style=flat-square)](DEINE_EXIN_URL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+## 📂 Projects
+- 🔍 [Job Search Tool](https://github.com/tvankov/job-scrapper)
+- 📄 [PDF Tool](https://github.com/tvankov/pdf-tool)
