@@ -6,10 +6,10 @@
 
 ## 🏅 Certifications
 
-[![EXIN DAF](https://img.shields.io/badge/EXIN-Data%20Analytics%20Foundation-0a5c9e?style=flat-square)](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=A61F985E-C408-422F-8495-ADF0E0AD594B&ts=838775453)
 [![PCAP](https://img.shields.io/badge/Python%20Institute-PCAP-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/b565e5ac-6aaa-42c0-bc3e-775b6627f36b/linked_in?t=tciaex)
 [![PCEP](https://img.shields.io/badge/Python%20Institute-PCEP-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/463075ea-36b0-41f2-8a38-235b95238dda/linked_in?t=tcia77)
 
+[![EXIN DAF](https://img.shields.io/badge/EXIN-Data%20Analytics%20Foundation-0a5c9e?style=flat-square)](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=A61F985E-C408-422F-8495-ADF0E0AD594B&ts=838775453)
 ---
 
 ## 🛠 Skills
@@ -22,8 +22,8 @@
 
 **3D & Game Development**
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/UE5%20Blueprints-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![MaxScript](https://img.shields.io/badge/MaxScript-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
 **Web**
