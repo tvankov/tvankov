@@ -8,7 +8,6 @@
 
 [![PCAP](https://img.shields.io/badge/Python%20Institute-PCAP-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/b565e5ac-6aaa-42c0-bc3e-775b6627f36b/linked_in?t=tciaex)
 [![PCEP](https://img.shields.io/badge/Python%20Institute-PCEP-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/463075ea-36b0-41f2-8a38-235b95238dda/linked_in?t=tcia77)
-
 [![EXIN DAF](https://img.shields.io/badge/EXIN-Data%20Analytics%20Foundation-0a5c9e?style=flat-square)](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=A61F985E-C408-422F-8495-ADF0E0AD594B&ts=838775453)
 ---
 
@@ -20,7 +19,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
