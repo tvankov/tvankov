@@ -3,7 +3,7 @@
 🎯 3D Artist & UE5 Developer → Data Analyst
 
 ## 🏅 Certifications
-[![EXIN DAF](https://img.shields.io/badge/EXIN-Data%20Analytics%20Foundation-0a5c9e?style=flat-square)](DEINE_EXIN_URL)
+[![EXIN DAF](https://img.shields.io/badge/EXIN-Data%20Analytics%20Foundation-0a5c9e?style=flat-square)]([DEINE_EXIN_URL](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=A61F985E-C408-422F-8495-ADF0E0AD594B&ts=838775453))
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
