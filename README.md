@@ -41,7 +41,7 @@
 
 ## 📂 Projects
 
-- 🔍 [Job Search Tool](https://github.com/tvankov/job-search-tool) — Multi-platform search across 12 providers. Fresh jobs delivered(auto-scheduler) to Excel every day. 
+- 🔍 [Job Search Tool](https://github.com/tvankov/job-search-tool) — Multi-platform search across 12 providers. Fresh jobs delivered to Excel every day — automatically.
 - 📄 [PDF Tool](https://github.com/tvankov/pdf-tool) — Desktop PDF merger, splitter & metadata viewer
 
 ---
