@@ -41,7 +41,7 @@
 
 ## 📂 Projects
 
-- 🔍 [Job Search Tool](https://github.com/tvankov/job-search-tool) — Adzuna API scraper with Excel export & auto-scheduler
+- 🔍 [Job Search Tool](https://github.com/tvankov/job-search-tool) — Multi-platform search across 12 providers. Fresh jobs delivered(auto-scheduler) to Excel every day. 
 - 📄 [PDF Tool](https://github.com/tvankov/pdf-tool) — Desktop PDF merger, splitter & metadata viewer
 
 ---
