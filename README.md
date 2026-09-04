@@ -44,7 +44,7 @@
 ---
 
 ## 📂 Projects
-
+- 📊 [Olist E-Commerce Analysis](https://github.com/tvankov/olist-ecommerce-analysis) — End-to-end data analysis (EDA, SQL, Power BI dashboard) on a real Brazilian e-commerce dataset.
 - 🔍 [Job Search Tool](https://github.com/tvankov/job-search-tool) — Multi-platform search across 12 providers. Fresh jobs auto-delivered to Excel every day. One click to open any job.
 - 📄 [PDF Tool](https://github.com/tvankov/pdf-tool) — Desktop PDF merger, splitter & metadata viewer
 
