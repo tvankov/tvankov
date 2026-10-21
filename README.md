@@ -47,9 +47,9 @@
 ---
 
 ## 📂 Data Analytics Projects
-- 📊 [Olist E-Commerce Analysis](https://github.com/tvankov/olist-ecommerce-analysis) — End-to-end data analysis (EDA, SQL, Power BI dashboard) on a real Brazilian e-commerce dataset.
--  🤖 [Humanoid Robots: Production & Pricing](https://github.com/tvankov/humanoid-robots-production-pricing) — Cloud data pipeline on a self researched dataset. Azure SQL, Cosmos DB and a Power BI dashboard. [Write up]
-- 🎵 [Chinook SQL Dashboard](https://github.com/tvankov/chinook-sql-dashboard) — Interactive sales dashboard built with Streamlit and SQL. Year over year KPIs, revenue trend, rankings.      [Live app](https://todor-chinook-dashboard.streamlit.app/) · [Write up](https://todorvankov.com/chinook-dashboard)
+- 📊 [Olist E-Commerce Analysis](https://github.com/tvankov/olist-ecommerce-analysis)(Zufriedenheit & Logistik) — End-to-end data analysis (EDA, SQL, Power BI dashboard) on a real Brazilian e-commerce dataset.
+- 🤖 [Humanoid Robots: Production & Pricing](https://github.com/tvankov/humanoid-robots-production-pricing) (Preis- und Umsatzanalyse) — Cloud data pipeline on a self researched dataset. Azure SQL, Cosmos DB and a Power BI dashboard. [Write up]
+- 🎵 [Chinook SQL Dashboard](https://github.com/tvankov/chinook-sql-dashboard) (Preis- und Umsatzanalyse) — Interactive sales dashboard built with Streamlit and SQL. Year over year KPIs, revenue trend, rankings.      [Live app](https://todor-chinook-dashboard.streamlit.app/) · [Write up](https://todorvankov.com/chinook-dashboard)
 
 ## 📂 Data Analytics in Software Projects
 - 🔍 [Job Search Tool](https://github.com/tvankov/job-search-tool) — Multi-platform search across 12 providers. Fresh jobs auto-delivered to Excel every day. One click to open any job.
