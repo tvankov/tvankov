@@ -54,7 +54,7 @@
 
 ## 📂 Data Analytics in Software Projects
 - 🔍 [Job Search Tool](https://github.com/tvankov/job-search-tool) — Multi-platform search across 12 providers. Fresh jobs auto-delivered to Excel every day. One click to open any job.
-- 📄 [PDF Tool](https://github.com/tvankov/pdf-tool) — Desktop PDF merger, splitter & metadata viewer
+- 📄 [PDF Tool](https://github.com/tvankov/pdf-tool) — Desktop PDF merger, splitter & metadata viewer · [Write up](https://todorvankov.com/todors-pdf-tool)
 
 ## 🌐 Interactive Web Projects
 - 🚀 [Space Explorer](https://github.com/tvankov/exoplanet-atlas-3d) (Interactive Web App): 3D map of the real sky built with Three.js and WebGL, without a build step. Data from the NASA Exoplanet Archive, ESA Gaia and Hipparcos: 36 habitable candidates, trips between planets and stars with real distances, and the zodiac signs drawn between real stars. Four languages, with a Python data pipeline behind it. [Live app](https://space.todorvankov.com/) · [Source code](https://github.com/tvankov/exoplanet-atlas-3d)
